@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1466616672 source:d:\informatyka\programowanie\c++\zaliczenie_paradygmaty\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<fstream>
+	<string>
+	<sstream>
+
